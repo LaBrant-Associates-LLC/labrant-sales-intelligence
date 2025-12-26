@@ -150,7 +150,9 @@ Do not copy data from canonical sources — reference them.
 
 | Version | Date | Changes | Author |
 |---------|------|---------|--------|
-| 1.0 | December 2025 | Initial compilation | TL |
-| 1.1 | December 2025 | Task-based portal navigation | TL |
-| 1.2 | December 2025 | Part 8 integration | TL |
-| 1.3 | December 2025 | Unified Portal/Chapter 0, simplified layout | TL |
+| 1.0 | December 2025 | Initial compilation from 8-part research series | TL |
+| 1.1 | December 2025 | Task-based portal navigation (removed role-based) | TL |
+| 1.2 | December 2025 | Part 8 New Market Development integration ($5.95M-$11.4M pipeline) | TL |
+| 1.3 | December 2025 | Unified Portal/Chapter 0, A-F section structure, explicit Boundaries | TL |
+
+**Current Version: 1.3**
