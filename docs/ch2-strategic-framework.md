@@ -1,3 +1,5 @@
+[← Back to Home](index.md)
+
 # Chapter 2: Strategic Framework
 
 ## In 30 Seconds

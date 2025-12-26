@@ -1,3 +1,5 @@
+[← Back to Home](index.md)
+
 # Chapter 7: Large Property Owners
 
 ## In 30 Seconds

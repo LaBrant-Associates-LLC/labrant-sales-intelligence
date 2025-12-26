@@ -1,3 +1,5 @@
+[← Back to Home](../index.md) | [← Chapter 3](index.md)
+
 # GCs to Avoid
 
 !!! danger "Do Not Pursue"

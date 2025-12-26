@@ -1,3 +1,5 @@
+[← Back to Home](../index.md) | [← Chapter 3](index.md)
+
 # Greenfire Management Services
 
 **Tier:** Strategic — Existing Revenue + Expansion

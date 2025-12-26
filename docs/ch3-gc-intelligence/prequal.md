@@ -1,3 +1,5 @@
+[← Back to Home](../index.md) | [← Chapter 3](index.md)
+
 # GC Prequalification Guide
 
 ## In 30 Seconds
