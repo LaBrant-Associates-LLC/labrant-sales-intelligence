@@ -22,34 +22,15 @@
 
 ## B. Today / This Week
 
-!!! warning "Week of: December 30, 2025 — Updated by: [Name]"
+!!! warning "Week of: December 30, 2025 — Update weekly or system loses credibility"
 
-    **This section must be updated weekly or the system loses credibility.**
-
-### Priority Calls
-
-| Priority | Contact | Phone | Purpose | Status |
-|----------|---------|-------|---------|--------|
-| 1 | Moore Construction | (262) 345-1280 | Willow Run Senior Living | ☐ |
-| 2 | Berghammer Construction | (262) 790-4750 | Pritchard Park Place | ☐ |
-| 3 | Sawall Development | (262) 297-4444 | Cudahy Applewood GC status | ☐ |
-| 4 | Catalyst Construction | (414) 727-6840 | Church/school bid list | ☐ |
-| 5 | McShane - Alison Gorham | WI Office | The Apiary status | ☐ |
-
-### Active Bid Deadlines
-
-| Due Date | Opportunity | Est. Value | Platform | Status |
-|----------|-------------|------------|----------|--------|
-| [Date] | [Project] | $XXX,XXX | [Platform] | [Status] |
-
-### Projects Entering Bid Phase
-
-| Project | GC/Owner | Est. Painting | Action Required |
-|---------|----------|---------------|-----------------|
-| Willow Run Senior Living | Moore | $400K-$700K | Contact Mike Moore |
-| The Apiary (West Allis) | McShane | $350K-$600K | Contact Alison Gorham |
-| Pritchard Park Place | Berghammer | $350K-$550K | Contact Kevin White |
-| Axis Apartments | Greenfire | $200K-$350K | Contact Jeb Meier |
+| Priority | Contact | Phone | Purpose |
+|:--------:|---------|-------|---------|
+| 1 | Moore Construction | (262) 345-1280 | Willow Run Senior Living |
+| 2 | Berghammer Construction | (262) 790-4750 | Pritchard Park Place |
+| 3 | Sawall Development | (262) 297-4444 | Cudahy Applewood GC status |
+| 4 | Catalyst Construction | (414) 727-6840 | Church/school bid list |
+| 5 | McShane - Alison Gorham | WI Office | The Apiary status |
 
 ---
 

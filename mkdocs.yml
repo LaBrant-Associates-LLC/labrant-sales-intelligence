@@ -21,11 +21,9 @@ theme:
     - navigation.instant
     - navigation.tracking
     - navigation.sections
-    - navigation.expand
     - navigation.top
     - search.highlight
     - search.share
-    - toc.integrate
     - content.tabs.link
   icon:
     repo: fontawesome/brands/github
