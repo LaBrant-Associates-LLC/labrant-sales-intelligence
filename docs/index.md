@@ -4,19 +4,19 @@
 
 ---
 
-## A. Chapters
+??? note "A. Chapters (click to expand)"
 
-| Chapter | Title | What's Inside |
-|---------|-------|---------------|
-| **0** | This Page | Portal, indices, weekly priorities |
-| **1** | [Operating System](ch1-operating-system.md) | KPIs, glossary, certifications, maintenance |
-| **2** | [Strategic Framework](ch2-strategic-framework.md) | Tiers, avoid list, sprint, 5-year outlook |
-| **3** | [GC Intelligence](ch3-gc-intelligence/index.md) | Merit-shop partners, active relationships, avoid |
-| **4** | [Municipal Markets](ch4-municipal/index.md) | City, County, WisDOT, platforms |
-| **5** | [Private Development](ch5-private-development.md) | Multifamily, senior, hospitality, retail |
-| **6** | [Market Segments](ch6-market-segments.md) | Religious, schools, industrial, self-storage |
-| **7** | [Large Owners](ch7-large-owners.md) | Utilities, MMSD, State Fair, offices |
-| **8** | [Sales System](ch8-sales-system.md) | Cadence, bid gate, pipeline, templates |
+    | # | Chapter | What's Inside |
+    |:-:|---------|---------------|
+    | 0 | This Page | Portal, indices, weekly priorities |
+    | 1 | [Operating System](ch1-operating-system.md) | KPIs, glossary, certifications, maintenance |
+    | 2 | [Strategic Framework](ch2-strategic-framework.md) | Tiers, avoid list, sprint, 5-year outlook |
+    | 3 | [GC Intelligence](ch3-gc-intelligence/index.md) | Merit-shop partners, active relationships, avoid |
+    | 4 | [Municipal Markets](ch4-municipal/index.md) | City, County, WisDOT, platforms |
+    | 5 | [Private Development](ch5-private-development.md) | Multifamily, senior, hospitality, retail |
+    | 6 | [Market Segments](ch6-market-segments.md) | Religious, schools, industrial, self-storage |
+    | 7 | [Large Owners](ch7-large-owners.md) | Utilities, MMSD, State Fair, offices |
+    | 8 | [Sales System](ch8-sales-system.md) | Cadence, bid gate, pipeline, templates |
 
 ---
 
