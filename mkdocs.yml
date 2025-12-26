@@ -1,0 +1,88 @@
+site_name: LaBrant Sales Intelligence Handbook
+site_description: SE Wisconsin Commercial Painting Market Intelligence
+site_url: https://labrant-associates-llc.github.io/labrant-sales-intelligence/
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue grey
+      accent: orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.share
+    - toc.integrate
+    - content.tabs.link
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - toc:
+      permalink: true
+  - attr_list
+  - md_in_html
+
+nav:
+  - Home: index.md
+  - Chapters:
+    - 1. Operating System: ch1-operating-system.md
+    - 2. Strategic Framework: ch2-strategic-framework.md
+    - 3. GC Intelligence:
+      - Overview: ch3-gc-intelligence/index.md
+      - Stevens Construction: ch3-gc-intelligence/pursue-stevens.md
+      - Greenfire Management: ch3-gc-intelligence/pursue-greenfire.md
+      - VJS Construction: ch3-gc-intelligence/pursue-vjs.md
+      - Moore Construction: ch3-gc-intelligence/pursue-moore.md
+      - McShane Construction: ch3-gc-intelligence/pursue-mcshane.md
+      - Catalyst Construction: ch3-gc-intelligence/pursue-catalyst.md
+      - Berghammer Construction: ch3-gc-intelligence/pursue-berghammer.md
+      - Active Relationships: ch3-gc-intelligence/active-relationships.md
+      - GCs to Avoid: ch3-gc-intelligence/avoid.md
+      - Prequalification Guide: ch3-gc-intelligence/prequal.md
+      - ABC Wisconsin: ch3-gc-intelligence/abc-wisconsin.md
+    - 4. Municipal Markets:
+      - Overview: ch4-municipal/index.md
+      - City of Milwaukee: ch4-municipal/milwaukee.md
+      - Milwaukee County: ch4-municipal/county.md
+      - WisDOT DBE: ch4-municipal/wisdot.md
+      - Other Municipalities: ch4-municipal/other.md
+      - Bid Platforms: ch4-municipal/platforms.md
+    - 5. Private Development: ch5-private-development.md
+    - 6. Market Segments: ch6-market-segments.md
+    - 7. Large Property Owners: ch7-large-owners.md
+    - 8. Sales Operating System: ch8-sales-system.md
+  - Attachments:
+    - Overview: attachments/index.md
+    - A. Financial Performance: attachments/att-a-financial.md
+    - E. Pricing Benchmarks: attachments/att-e-pricing.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/LaBrant-Associates-LLC/labrant-sales-intelligence
+  generator: false
+
+copyright: Copyright &copy; 2025 LaBrant & Associates LLC
