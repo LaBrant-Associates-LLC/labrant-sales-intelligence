@@ -4,7 +4,23 @@
 
 ---
 
-## A. Today / This Week
+## A. Chapters
+
+| Chapter | Title | What's Inside |
+|---------|-------|---------------|
+| **0** | This Page | Portal, indices, weekly priorities |
+| **1** | [Operating System](ch1-operating-system.md) | KPIs, glossary, certifications, maintenance |
+| **2** | [Strategic Framework](ch2-strategic-framework.md) | Tiers, avoid list, sprint, 5-year outlook |
+| **3** | [GC Intelligence](ch3-gc-intelligence/index.md) | Merit-shop partners, active relationships, avoid |
+| **4** | [Municipal Markets](ch4-municipal/index.md) | City, County, WisDOT, platforms |
+| **5** | [Private Development](ch5-private-development.md) | Multifamily, senior, hospitality, retail |
+| **6** | [Market Segments](ch6-market-segments.md) | Religious, schools, industrial, self-storage |
+| **7** | [Large Owners](ch7-large-owners.md) | Utilities, MMSD, State Fair, offices |
+| **8** | [Sales System](ch8-sales-system.md) | Cadence, bid gate, pipeline, templates |
+
+---
+
+## B. Today / This Week
 
 !!! warning "Week of: December 30, 2025 — Updated by: [Name]"
 
@@ -37,7 +53,7 @@
 
 ---
 
-## B. Find It Fast
+## C. Find It Fast
 
 | I need to find... | Go to | What's there |
 |-------------------|-------|--------------|
@@ -48,7 +64,7 @@
 
 ---
 
-## C. Boundaries
+## D. Boundaries
 
 !!! danger "Automatic No — Do Not Pursue"
 
@@ -62,7 +78,7 @@
 
 ---
 
-## D. Tools
+## E. Tools
 
 | Tool | Purpose | Link |
 |------|---------|------|
@@ -70,22 +86,6 @@
 | **Outreach Templates** | Email/call scripts | [Section 8.05](ch8-sales-system.md#section-805-outreach-templates) |
 | **Capability Statement** | How to structure | [Section 8.04](ch8-sales-system.md#section-804-capability-statements) |
 | **Bid Gate Checklist** | Go/no-go decision | [Section 8.02](ch8-sales-system.md#section-802-bid-gate-and-qualification) |
-
----
-
-## E. Chapters
-
-| Chapter | Title | What's Inside |
-|---------|-------|---------------|
-| **0** | This Page | Portal, indices, weekly priorities |
-| **1** | [Operating System](ch1-operating-system.md) | KPIs, glossary, certifications, maintenance |
-| **2** | [Strategic Framework](ch2-strategic-framework.md) | Tiers, avoid list, sprint, 5-year outlook |
-| **3** | [GC Intelligence](ch3-gc-intelligence/index.md) | Merit-shop partners, active relationships, avoid |
-| **4** | [Municipal Markets](ch4-municipal/index.md) | City, County, WisDOT, platforms |
-| **5** | [Private Development](ch5-private-development.md) | Multifamily, senior, hospitality, retail |
-| **6** | [Market Segments](ch6-market-segments.md) | Religious, schools, industrial, self-storage |
-| **7** | [Large Owners](ch7-large-owners.md) | Utilities, MMSD, State Fair, offices |
-| **8** | [Sales System](ch8-sales-system.md) | Cadence, bid gate, pipeline, templates |
 
 ---
 
