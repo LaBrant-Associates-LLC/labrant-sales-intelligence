@@ -46,12 +46,12 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Chapters:
-    - 1. GC Intelligence: ch1-gc-intelligence/
-    - 2. Multifamily & Hospitality: ch2-multifamily-hospitality/
-    - 3. Municipal Markets: ch3-municipal/
-    - 4. New Markets: ch4-new-markets/
-    - 5. Large Facilities Owners: ch5-large-owners/
-    - 6. Internal Sales Data: ch6-internal/
+    - 1. GC Intelligence: ch1-gc-intelligence/index.md
+    - 2. Multifamily & Hospitality: ch2-multifamily-hospitality/index.md
+    - 3. Municipal Markets: ch3-municipal/index.md
+    - 4. New Markets: ch4-new-markets/index.md
+    - 5. Large Facilities Owners: ch5-large-owners/index.md
+    - 6. Internal Sales Data: ch6-internal/index.md
   - Attachments:
     - Overview: attachments/index.md
     - A. Financial Performance: attachments/att-a-financial.md

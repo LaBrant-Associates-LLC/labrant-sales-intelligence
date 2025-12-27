@@ -19,12 +19,12 @@ This handbook exists to help LaBrant focus on the **highest-probability painting
 
 | Chapter | What It Covers | Market Size | 12-Month Pipeline |
 |---------|----------------|-------------|-------------------|
-| [**1. GC Intelligence**](ch1-gc-intelligence/) | Merit-shop GCs worth pursuing | ~$15M–$25M | **$3.1M–$5.4M** |
-| [**2. Multifamily & Hospitality**](ch2-multifamily-hospitality/) | Apartments, senior living, hotels | ~$12M–$20M | **$2.4M–$4.2M** |
-| [**3. Municipal Markets**](ch3-municipal/) | City of Milwaukee, County, WisDOT | ~$8M–$15M | **$1.2M–$2.5M** |
-| [**4. New Markets**](ch4-new-markets/) | Religious, schools, self-storage, industrial | ~$5M–$10M | **$900K–$1.8M** |
-| [**5. Large Facilities Owners**](ch5-large-owners/) | Direct owner, recurring maintenance | ~$3M–$8M | **$400K–$1.2M** |
-| [**6. Internal Sales Data**](ch6-internal/) | Pricing, financials, templates | — | Confidential |
+| [**1. GC Intelligence**](ch1-gc-intelligence/index.md) | Merit-shop GCs worth pursuing | ~$15M–$25M | **$3.1M–$5.4M** |
+| [**2. Multifamily & Hospitality**](ch2-multifamily-hospitality/index.md) | Apartments, senior living, hotels | ~$12M–$20M | **$2.4M–$4.2M** |
+| [**3. Municipal Markets**](ch3-municipal/index.md) | City of Milwaukee, County, WisDOT | ~$8M–$15M | **$1.2M–$2.5M** |
+| [**4. New Markets**](ch4-new-markets/index.md) | Religious, schools, self-storage, industrial | ~$5M–$10M | **$900K–$1.8M** |
+| [**5. Large Facilities Owners**](ch5-large-owners/index.md) | Direct owner, recurring maintenance | ~$3M–$8M | **$400K–$1.2M** |
+| [**6. Internal Sales Data**](ch6-internal/index.md) | Pricing, financials, templates | — | Confidential |
 
 *Market size = accessible SE Wisconsin work. Pipeline = identified projects per current research.*
 
