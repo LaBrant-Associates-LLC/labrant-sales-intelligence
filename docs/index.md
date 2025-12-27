@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # LaBrant Sales Intelligence Handbook
 
 **Version:** 1.3 | **Updated:** December 2025 | **Next Review:** March 2026
