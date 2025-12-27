@@ -1,6 +1,6 @@
 [← Back to Home](../index.md)
 
-# Chapter 4: Municipal Markets
+# Chapter 3: Municipal Markets
 
 ## In 30 Seconds
 

@@ -5,69 +5,105 @@ hide:
 
 # LaBrant Sales Intelligence Handbook
 
-**Version:** 1.3 | **Updated:** December 2025 | **Next Review:** March 2026
+**Version:** 2.0 | **December 2025**
 
 ---
 
-## A. Today / This Week
+## Why This Handbook Exists
 
-!!! warning "Week of: December 30, 2025 — Update weekly or system loses credibility"
+This handbook exists to help LaBrant focus on the **highest-probability painting work in SE Wisconsin** and avoid time spent on markets that do not convert.
+
+**The gap:** LaBrant currently bids with ~6 GCs. This research identified 35+ merit-shop GCs in SE Wisconsin representing ~$15M–$25M in annual painting work — 29 of which we have no relationship with. Beyond GCs, the handbook covers 5 additional market segments totaling ~$28M–$53M annually, of which ~$5.9M–$11.5M aligns with our certifications and capabilities.
+
+### Handbook Summary
+
+| Chapter | What It Covers | Market Size | 12-Month Pipeline |
+|---------|----------------|-------------|-------------------|
+| [**1. GC Intelligence**](ch1-gc-intelligence/) | Merit-shop GCs worth pursuing | ~$15M–$25M | **$3.1M–$5.4M** |
+| [**2. Multifamily & Hospitality**](ch2-multifamily-hospitality/) | Apartments, senior living, hotels | ~$12M–$20M | **$2.4M–$4.2M** |
+| [**3. Municipal Markets**](ch3-municipal/) | City of Milwaukee, County, WisDOT | ~$8M–$15M | **$1.2M–$2.5M** |
+| [**4. New Markets**](ch4-new-markets/) | Religious, schools, self-storage, industrial | ~$5M–$10M | **$900K–$1.8M** |
+| [**5. Large Facilities Owners**](ch5-large-owners/) | Direct owner, recurring maintenance | ~$3M–$8M | **$400K–$1.2M** |
+| [**6. Internal Sales Data**](ch6-internal/) | Pricing, financials, templates | — | Confidential |
+
+*Market size = accessible SE Wisconsin work. Pipeline = identified projects per current research.*
+
+---
+
+## Quick Reference
+
+### Certifications
+
+| Certification | Advantage |
+|---------------|-----------|
+| City of Milwaukee SBE + LBE | 10% bid preference (cap $30K), 25% participation goal |
+| WisDOT DBE → County TBE | 25% TBE goal on County construction |
+| Milwaukee County Zoo | 65% TBE goal |
+| Wisconsin DHS Lead | Required for pre-1978 buildings |
+
+### Abbreviations
+
+| Term | Meaning |
+|------|---------|
+| DBE | Disadvantaged Business Enterprise |
+| SBE | Small Business Enterprise |
+| LBE | Local Business Enterprise |
+| TBE | Targeted Business Enterprise |
+| GC | General Contractor |
+| PLA | Project Labor Agreement |
+| WHEDA | Wisconsin Housing and Economic Development Authority |
+| RPP | Resident Preference Program |
+| T&M | Time and Materials |
+
+### Pursue
+
+| Market | Why |
+|--------|-----|
+| Merit-shop GCs | Stevens, Moore, Greenfire, VJS, McShane, Catalyst, Berghammer |
+| Senior living | Merit-shop GC dominance, recurring work |
+| WHEDA-funded housing | Diversity requirements favor DBE/SBE |
+| City/County contracts | Certification advantages apply |
+| Religious institutions | 642+ congregations, lead cert needed, low competition |
+| NCG Hospitality | 25% DBE requirement |
+
+### Avoid
+
+| Market | Why |
+|--------|-----|
+| JP Cullen, Miron, CG Schmidt, Findorff, Mortenson, Boldt, C.D. Smith, Hunzinger | Union signatory |
+| Public K-12 schools | Union GC dominance |
+| UW System | State prevailing wage, union preference |
+| Data centers | 100% union PLAs ($25B construction, zero access) |
+| Fire hydrants | 20 of 21 utilities do in-house |
+| Major hospital systems | Aurora, Froedtert, Ascension, Children's — union |
+| CG Schmidt | -$58K loss history |
+| Corliss | -$243K loss history |
+| Peridot CM | 10% margin across 9 jobs |
+
+---
+
+## This Week
+
+**Week of:** December 30, 2025
 
 | Priority | Contact | Phone | Purpose |
-|:--------:|---------|-------|---------|
+|----------|---------|-------|---------|
 | 1 | Moore Construction | (262) 345-1280 | Willow Run Senior Living |
-| 2 | Berghammer Construction | (262) 790-4750 | Pritchard Park Place |
-| 3 | Sawall Development | (262) 297-4444 | Cudahy Applewood GC status |
-| 4 | Catalyst Construction | (414) 727-6840 | Church/school bid list |
-| 5 | McShane - Alison Gorham | WI Office | The Apiary status |
+| 2 | Stevens Construction | (414) 828-5100 | 100 East Tower |
+| 3 | Sawall Development | (262) 297-4444 | Cudahy Applewood |
+| 4 | Berghammer Construction | (262) 790-4750 | Pritchard Park Place |
+| 5 | NCG Hospitality | ncghospitality.com | Moxy Milwaukee |
 
 ---
 
-## B. Find It Fast
+## Find It Fast
 
-| I need to find... | Go to | What's there |
-|-------------------|-------|--------------|
-| **A GC** | [GC Index](#gc-index) | 35+ GCs with tier, section, status |
-| **A Developer / Owner** | [Owner Index](#owner-index) | 15+ developers with opportunity |
-| **A Market Segment** | [Segment Index](#segment-index) | 22 segments with tier and notes |
-| **A Municipality** | [Municipality Index](#municipality-index) | 13 agencies with certification advantages |
-
----
-
-## C. Boundaries
-
-!!! danger "Automatic No — Do Not Pursue"
-
-    **Union GCs:** JP Cullen, Miron, CG Schmidt, Findorff, Mortenson, Boldt, C.D. Smith, Hunzinger
-
-    **Segments:** Public K-12 Schools, UW System, Data Centers, Fire Hydrants
-
-    **Loss History:** CG Schmidt (-$58K), Corliss (-$243K), Peridot CM (10% margin)
-
-    [Full details → Section 2.03](ch2-strategic-framework.md#section-203-markets-to-avoid)
-
----
-
-## D. Tools
-
-| Tool | Purpose | Link |
-|------|---------|------|
-| **Pricing Benchmarks** | What to charge | [Attachment E](attachments/att-e-pricing.md) |
-| **Outreach Templates** | Email/call scripts | [Section 8.05](ch8-sales-system.md#section-805-outreach-templates) |
-| **Capability Statement** | How to structure | [Section 8.04](ch8-sales-system.md#section-804-capability-statements) |
-| **Bid Gate Checklist** | Go/no-go decision | [Section 8.02](ch8-sales-system.md#section-802-bid-gate-and-qualification) |
-
----
-
-## E. What's New (December 2025)
-
-| Change | Section | Impact |
-|--------|---------|--------|
-| Part 8 integration | All | $5.95M-$11.4M new pipeline |
-| Berghammer added | 3.01(G) | New merit-shop GC, $600K-$1M |
-| Moore expanded | 3.01(D) | $950K-$1.75M (5 projects) |
-| Self-storage added | 6.09 | New segment |
-| Property mgmt added | 6.10 | New segment |
+| I need... | Go to |
+|-----------|-------|
+| A GC | [GC Index](#gc-index) |
+| A Developer | [Owner Index](#owner-index) |
+| A Municipality | [Municipality Index](#municipality-index) |
+| A Market Segment | [Segment Index](#segment-index) |
 
 ---
 
@@ -75,58 +111,56 @@ hide:
 
 ### GC Index
 
-| GC | Section | Tier | Status | Est. Pipeline |
-|----|---------|------|--------|---------------|
-| Berghammer | [3.01(G)](ch3-gc-intelligence/pursue-berghammer.md) | Target | NEW | $600K-$1M |
-| Cardinal Capital | [3.02](ch3-gc-intelligence/active-relationships.md) | Growth | Active | Monitor |
-| Catalyst | [3.01(F)](ch3-gc-intelligence/pursue-catalyst.md) | Target | Merit-shop | TBD |
-| CG Schmidt | [3.03](ch3-gc-intelligence/avoid.md) | **Avoid** | Union + loss | — |
-| Greenfire | [3.01(B)](ch3-gc-intelligence/pursue-greenfire.md) | Strategic | Active | $400K-$700K |
-| McShane | [3.01(E)](ch3-gc-intelligence/pursue-mcshane.md) | Strategic | Active | $700K-$1.175M |
-| Moore | [3.01(D)](ch3-gc-intelligence/pursue-moore.md) | Target | NEW | $950K-$1.75M |
-| Stevens | [3.01(A)](ch3-gc-intelligence/pursue-stevens.md) | Target | Merit-shop | $500K-$1M |
-| VJS | [3.01(C)](ch3-gc-intelligence/pursue-vjs.md) | Target | Merit-shop | TBD |
+| GC | Status | Pipeline |
+|----|--------|----------|
+| Berghammer | Target | $600K–$1M |
+| Cardinal Capital | Active | Monitor |
+| Catalyst | Target | TBD |
+| CG Schmidt | **Avoid** | — |
+| Greenfire | Active | $400K–$700K |
+| McShane | Active | $700K–$1.175M |
+| Moore | Target | $950K–$1.75M |
+| Stevens | Target | $500K–$1M |
+| VJS | Target | TBD |
 
 ### Owner Index
 
-| Owner/Developer | Section | Opportunity | Est. Painting |
-|-----------------|---------|-------------|---------------|
-| Annex Group | [5.02(C)](ch5-private-development.md) | Union at Rose Park | $100K-$200K |
-| Archdiocese | [6.02(A)](ch6-market-segments.md) | 200+ parishes | Recurring |
-| Capri Communities | [5.03(A)](ch5-private-development.md) | Menomonee Falls | $250K-$400K |
-| NCG Hospitality | [5.04(B)](ch5-private-development.md) | Moxy Milwaukee | $150K-$300K |
-| Sawall Development | [5.02(A)](ch5-private-development.md) | Cudahy Applewood | $350K-$600K |
-| Scheels | [5.05(A)](ch5-private-development.md) | Mayfair Mall | $400K-$800K |
+| Owner | Opportunity | Est. Value |
+|-------|-------------|------------|
+| Archdiocese | 190+ parishes | Recurring |
+| Capri Communities | Menomonee Falls | $250K–$400K |
+| NCG Hospitality | Moxy Milwaukee | $150K–$300K |
+| Sawall Development | Cudahy Applewood | $350K–$600K |
+| Scheels | Mayfair Mall | $400K–$800K |
 
 ### Municipality Index
 
-| Entity | Section | Certification Advantage |
-|--------|---------|-------------------------|
-| City of Milwaukee | [4.02](ch4-municipal/milwaukee.md) | 25% SBE + 10% LBE |
-| Milwaukee County | [4.03](ch4-municipal/county.md) | 25% TBE |
-| Milwaukee County Zoo | [4.03](ch4-municipal/county.md) | **65% TBE** |
-| WisDOT | [4.04](ch4-municipal/wisdot.md) | DBE |
+| Entity | Certification Advantage |
+|--------|-------------------------|
+| City of Milwaukee | 25% SBE + 10% LBE |
+| Milwaukee County | 25% TBE |
+| Milwaukee County Zoo | 65% TBE |
+| WisDOT | DBE |
 
 ### Segment Index
 
-| Segment | Section | Tier | Notes |
-|---------|---------|------|-------|
-| Data Centers | [2.03](ch2-strategic-framework.md) | **Avoid** | 100% union PLAs |
-| Hospitality | [5.04](ch5-private-development.md) | 1-2 | NCG 25% DBE |
-| Multifamily | [5.02](ch5-private-development.md) | 1-2 | $1.5M-$2.5M pipeline |
-| Religious | [6.02](ch6-market-segments.md) | 2 | $150M campaign |
-| Senior Living | [5.03](ch5-private-development.md) | 1-2 | Moore, VJS, McShane |
-| Self-Storage | [6.09](ch6-market-segments.md) | 3 | NEW |
+| Segment | Status | Notes |
+|---------|--------|-------|
+| Data Centers | **Avoid** | 100% union PLAs |
+| Hospitality | Pursue | NCG 25% DBE |
+| Multifamily | Pursue | $1.5M–$2.5M pipeline |
+| Religious | Pursue | 642+ congregations |
+| Senior Living | Pursue | Moore, VJS, McShane |
+| Self-Storage | Pursue | New segment |
 
 ---
 
-## Canonical Data Sources
+## Canonical Data
 
-| Data Type | Location | Owner | Update Frequency |
-|-----------|----------|-------|------------------|
-| Financial KPIs | Attachment A | Owner | Quarterly |
-| GC Relationships | Section 3.02 | Sales | Monthly |
-| Pricing Benchmarks | Attachment E | Estimating | Per bid cycle |
-| Target Pipeline | This page | Sales | **Weekly** |
-
-**Rule:** Check canonical location first. Reference with links — do not duplicate data.
+| Data | Location | Update |
+|------|----------|--------|
+| Financial KPIs | Ch. 6 | Quarterly |
+| GC Relationships | Ch. 1 | Monthly |
+| Pricing | Ch. 6 | Per bid |
+| Weekly Priorities | This page | Weekly |
+| Pipeline Numbers | This page | Quarterly |

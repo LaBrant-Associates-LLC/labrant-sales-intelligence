@@ -46,18 +46,16 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Chapters:
-    - 1. Operating System: ch1-operating-system.md
-    - 2. Strategic Framework: ch2-strategic-framework.md
-    - 3. GC Intelligence: ch3-gc-intelligence/index.md
-    - 4. Municipal Markets: ch4-municipal/index.md
-    - 5. Private Development: ch5-private-development.md
-    - 6. Market Segments: ch6-market-segments.md
-    - 7. Large Owners: ch7-large-owners.md
-    - 8. Sales System: ch8-sales-system.md
+    - 1. GC Intelligence: ch1-gc-intelligence/
+    - 2. Multifamily & Hospitality: ch2-multifamily-hospitality/
+    - 3. Municipal Markets: ch3-municipal/
+    - 4. New Markets: ch4-new-markets/
+    - 5. Large Facilities Owners: ch5-large-owners/
+    - 6. Internal Sales Data: ch6-internal/
   - Attachments:
     - Overview: attachments/index.md
-    - A. Financial: attachments/att-a-financial.md
-    - E. Pricing: attachments/att-e-pricing.md
+    - A. Financial Performance: attachments/att-a-financial.md
+    - E. Pricing Benchmarks: attachments/att-e-pricing.md
 
 extra:
   social:

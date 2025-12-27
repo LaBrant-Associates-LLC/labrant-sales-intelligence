@@ -1,6 +1,6 @@
 [← Back to Home](../index.md)
 
-# Chapter 3: GC Intelligence
+# Chapter 1: GC Intelligence
 
 ## In 30 Seconds
 
