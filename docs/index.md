@@ -3,28 +3,26 @@ hide:
   - toc
 ---
 
-# LaBrant Sales Intelligence Handbook
+# LaBrant Sales Strategy
 
 **Version:** 2.8 | **December 2025**
 
 ---
 
-## Why This Exists
+## Purpose
 
-LaBrant's growth is constrained less by capacity and more by where time is spent.
+We currently derive most revenue from less than 10 GC relationships. This research identified 35+ merit-shop GCs, multiple private and institutional markets, and $4M–$8M of incremental opportunity aligned with our certifications and operating model.
 
-We currently derive most revenue from a small set of GC relationships. This research identified 35+ merit-shop GCs, multiple private and institutional markets, and $4M–$8M of incremental opportunity aligned with our certifications and operating model.
-
-**Proof:** In the last 12 months, we've submitted $9.5M in proposals to GCs we were not working with previously.
+**Goal:** Diversify work portfolio across other markets while expanding multifamily bidding.
 
 ---
 
-## **Where the Money Is (Next 12 Months)**
+## **Sales Research: Where the Money Is (Next 12 Months)**
 
 ---
 
-| Chapter | Chapter Detail | Market Size | 12-Month Opportunity |
-|---------|----------------|-------------|----------------------|
+| Handbook Chapter | Chapter Detail | Market Size | 12-Month Opportunity |
+|------------------|----------------|-------------|----------------------|
 | [1. GC Intelligence](ch1-gc-intelligence/index.md) | Merit-shop GCs worth pursuing | $15M–$25M | **$2.8M–$5.2M** |
 | [2. Multifamily & Hospitality](ch2-multifamily-hospitality/index.md) | Apartments, senior living, hotels | $10M–$18M | **$1.6M–$3.0M** |
 | [3. Municipal Markets](ch3-municipal/index.md) | City, County, WisDOT — certification leverage | $7M–$12M | **$1.0M–$2.2M** |
@@ -33,11 +31,11 @@ We currently derive most revenue from a small set of GC relationships. This rese
 
 ---
 
-*Summary ranges reflect incremental opportunity. Pipeline ≠ revenue.*
+*Summary ranges reflect incremental opportunity. Pipeline tables below reflect total current activity. Pipeline ≠ revenue.*
 
 ---
 
-## Where We Win
+## **How do we diversify? By leveraging certifications**
 
 | Certification | Advantage |
 |---------------|-----------|
@@ -72,11 +70,11 @@ We currently derive most revenue from a small set of GC relationships. This rese
 
 ---
 
-## How This Is Used
+## Helpful Links
 
-- **Daily:** Active pipeline reference
-- **Weekly:** Decide where to spend sales time
-- **Quarterly:** Recalibrate opportunity ranges
-- **Always:** Link to canonical data — do not duplicate
-
-Internal sales data (pricing, financials, templates) → [Chapter 6](ch6-internal/index.md)
+- [Internal Sales Data](ch6-internal/index.md) — Pricing, financials, templates
+- [Pricing Benchmarks](attachments/att-e-pricing.md) — What to charge
+- [Bid Platforms](ch3-municipal/platforms.md) — VendorNet, DemandStar, QuestCDN
+- [ABC Wisconsin](ch1-gc-intelligence/abc-wisconsin.md) — Merit-shop GC network
+- [City of Milwaukee SBE Portal](https://milwaukee.gov/business) — Registration & compliance
+- [Wisconsin VendorNet](https://vendornet.wi.gov/) — State bid opportunities
