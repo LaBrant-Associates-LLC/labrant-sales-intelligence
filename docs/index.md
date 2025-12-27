@@ -110,6 +110,17 @@ The summary table above highlights incremental opportunity this handbook is desi
 
 ---
 
+## Canonical Data
+
+| Data | Location | Update |
+|------|----------|--------|
+| Financial KPIs | Ch. 6 | Quarterly |
+| GC Pipeline | This page | Monthly |
+| Pricing | Ch. 6 | Per bid |
+| Weekly Priorities | This page | Weekly |
+
+---
+
 ## Find It Fast
 
 | I need... | Go to |
@@ -168,24 +179,3 @@ The summary table above highlights incremental opportunity this handbook is desi
 | Religious | Pursue | 642+ congregations |
 | Senior Living | Pursue | Moore, VJS, McShane |
 | Self-Storage | Pursue | New segment |
-
----
-
-## Chapter 4: New Markets
-
-Fragmented, relationship-driven markets with low union penetration.
-
-These are not experimental — they represent underserved segments where certification advantages and lead-safe capabilities create structural barriers to competition.
-
-[Go to Chapter 4 →](ch4-new-markets/index.md)
-
----
-
-## Canonical Data
-
-| Data | Location | Update |
-|------|----------|--------|
-| Financial KPIs | Ch. 6 | Quarterly |
-| GC Pipeline | This page | Monthly |
-| Pricing | Ch. 6 | Per bid |
-| Weekly Priorities | This page | Weekly |
