@@ -9,7 +9,7 @@ hide:
 
 ---
 
-## Purpose
+## **Purpose**
 
 We currently derive most revenue from less than 10 GC relationships. This research identified 35+ merit-shop GCs, multiple private and institutional markets, and $4M–$8M of incremental opportunity aligned with our certifications and operating model.
 
