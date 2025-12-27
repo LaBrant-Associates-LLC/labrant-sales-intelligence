@@ -5,7 +5,7 @@ hide:
 
 # LaBrant Sales Intelligence Handbook
 
-**Version:** 2.0 | **December 2025**
+**Version:** 2.1 | **December 2025**
 
 ---
 
@@ -13,24 +13,39 @@ hide:
 
 This handbook exists to help LaBrant focus on the **highest-probability painting work in SE Wisconsin** and avoid time spent on markets that do not convert.
 
-**The gap:** LaBrant currently bids with ~6 GCs. This research identified 35+ merit-shop GCs in SE Wisconsin representing ~$15M–$25M in annual painting work — 29 of which we have no relationship with. Beyond GCs, the handbook covers 5 additional market segments totaling ~$28M–$53M annually, of which ~$5.9M–$11.5M aligns with our certifications and capabilities.
+**The gap:** LaBrant currently has active relationships with ~6 GCs. This research identified 35+ merit-shop GCs in SE Wisconsin — and we've already submitted **$9.5M in active proposals** to GCs we weren't working with 12 months ago. Beyond GCs, the handbook covers 4 additional market segments totaling ~$24M–$45M annually, of which ~$4M–$8M represents incremental opportunity aligned with our certifications and capabilities.
 
 ### Handbook Summary
 
 | Chapter | What It Covers | Market Size | 12-Month Pipeline |
 |---------|----------------|-------------|-------------------|
-| [**1. GC Intelligence**](ch1-gc-intelligence/index.md) | Merit-shop GCs worth pursuing | ~$15M–$25M | **$3.1M–$5.4M** |
-| [**2. Multifamily & Hospitality**](ch2-multifamily-hospitality/index.md) | Apartments, senior living, hotels | ~$12M–$20M | **$2.4M–$4.2M** |
-| [**3. Municipal Markets**](ch3-municipal/index.md) | City of Milwaukee, County, WisDOT | ~$8M–$15M | **$1.2M–$2.5M** |
-| [**4. New Markets**](ch4-new-markets/index.md) | Religious, schools, self-storage, industrial | ~$5M–$10M | **$900K–$1.8M** |
-| [**5. Large Facilities Owners**](ch5-large-owners/index.md) | Direct owner, recurring maintenance | ~$3M–$8M | **$400K–$1.2M** |
-| [**6. Internal Sales Data**](ch6-internal/index.md) | Pricing, financials, templates | — | Confidential |
+| [**1. GC Intelligence**](ch1-gc-intelligence/index.md) | Merit-shop GCs worth pursuing | ~$15M–$25M | **$2.8M–$5.2M** |
+| [**2. Multifamily & Hospitality**](ch2-multifamily-hospitality/index.md) | Apartments, senior living, hotels | ~$10M–$18M | **$1.6M–$3.0M** |
+| [**3. Municipal Markets**](ch3-municipal/index.md) | City of Milwaukee, County, WisDOT | ~$7M–$12M | **$1.0M–$2.2M** |
+| [**4. New Markets**](ch4-new-markets/index.md) | Religious, schools, self-storage, industrial | ~$4M–$8M | **$800K–$1.6M** |
+| [**5. Large Facilities Owners**](ch5-large-owners/index.md) | Direct owner, recurring maintenance | ~$3M–$7M | **$400K–$1.1M** |
 
-*Market size = accessible SE Wisconsin work. Pipeline = identified projects per current research.*
+*Market size reflects accessible SE Wisconsin commercial painting work. 12-Month Pipeline reflects named projects and identified opportunities expected within 12 months. Ranges are directional, not commitments.*
+
+Internal sales data (pricing, financials, templates) is maintained in [Chapter 6](ch6-internal/index.md) and supports execution across all markets.
 
 ---
 
 ## Quick Reference
+
+### Active GC Pipeline (Dec 2025)
+
+The summary table above highlights incremental opportunity this handbook is designed to unlock. The table below reflects total current proposal activity, including existing relationships.
+
+| GC | Active Proposals | Status |
+|----|------------------|--------|
+| Stevens | $2.95M | Target — 13 projects |
+| Greenfire | $2.59M | Active — 9 projects |
+| Moore | $1.47M | Target — 3 projects |
+| Horizon | $1.41M | Active — 3 projects |
+| North Central | $333K | Active — 3 projects |
+| MSP | $285K | Existing — 3 projects |
+| **Total** | **$9.0M** | Pipeline ≠ revenue. Conversion varies by GC and project type. |
 
 ### Certifications
 
@@ -52,7 +67,6 @@ This handbook exists to help LaBrant focus on the **highest-probability painting
 | GC | General Contractor |
 | PLA | Project Labor Agreement |
 | WHEDA | Wisconsin Housing and Economic Development Authority |
-| RPP | Resident Preference Program |
 | T&M | Time and Materials |
 
 ### Pursue
@@ -88,11 +102,11 @@ This handbook exists to help LaBrant focus on the **highest-probability painting
 
 | Priority | Contact | Phone | Purpose |
 |----------|---------|-------|---------|
-| 1 | Moore Construction | (262) 345-1280 | Willow Run Senior Living |
-| 2 | Stevens Construction | (414) 828-5100 | 100 East Tower |
-| 3 | Sawall Development | (262) 297-4444 | Cudahy Applewood |
-| 4 | Berghammer Construction | (262) 790-4750 | Pritchard Park Place |
-| 5 | NCG Hospitality | ncghospitality.com | Moxy Milwaukee |
+| 1 | Moore Construction | (262) 345-1280 | Willow Run Senior Living ($660K) |
+| 2 | Stevens Construction | (414) 828-5100 | Bluffs on Lake ($457K tentative) |
+| 3 | Greenfire Construction | (414) 727-6840 | Emerald Row phases ($884K) |
+| 4 | Sawall Development | (262) 297-4444 | Cudahy Applewood status |
+| 5 | Annex Group | (317) 353-5735 | Union at Rose Park ($216K) |
 
 ---
 
@@ -111,17 +125,18 @@ This handbook exists to help LaBrant focus on the **highest-probability painting
 
 ### GC Index
 
-| GC | Status | Pipeline |
-|----|--------|----------|
-| Berghammer | Target | $600K–$1M |
-| Cardinal Capital | Active | Monitor |
+| GC | Status | Active Pipeline |
+|----|--------|-----------------|
+| Stevens | Target | $2.95M |
+| Greenfire | Active | $2.59M |
+| Moore | Target | $1.47M |
+| Horizon | Active | $1.41M |
+| North Central | Active | $333K |
+| MSP | Existing | $285K |
 | Catalyst | Target | TBD |
-| CG Schmidt | **Avoid** | — |
-| Greenfire | Active | $400K–$700K |
-| McShane | Active | $700K–$1.175M |
-| Moore | Target | $950K–$1.75M |
-| Stevens | Target | $500K–$1M |
+| Berghammer | Target | TBD |
 | VJS | Target | TBD |
+| CG Schmidt | **Avoid** | — |
 
 ### Owner Index
 
@@ -131,7 +146,8 @@ This handbook exists to help LaBrant focus on the **highest-probability painting
 | Capri Communities | Menomonee Falls | $250K–$400K |
 | NCG Hospitality | Moxy Milwaukee | $150K–$300K |
 | Sawall Development | Cudahy Applewood | $350K–$600K |
-| Scheels | Mayfair Mall | $400K–$800K |
+| Annex Group | Union at Rose Park | $216K (submitted) |
+| Oxeland Group | Good Hope Road | $300K–$400K |
 
 ### Municipality Index
 
@@ -148,10 +164,20 @@ This handbook exists to help LaBrant focus on the **highest-probability painting
 |---------|--------|-------|
 | Data Centers | **Avoid** | 100% union PLAs |
 | Hospitality | Pursue | NCG 25% DBE |
-| Multifamily | Pursue | $1.5M–$2.5M pipeline |
+| Multifamily | Pursue | $7M+ active pipeline |
 | Religious | Pursue | 642+ congregations |
 | Senior Living | Pursue | Moore, VJS, McShane |
 | Self-Storage | Pursue | New segment |
+
+---
+
+## Chapter 4: New Markets
+
+Fragmented, relationship-driven markets with low union penetration.
+
+These are not experimental — they represent underserved segments where certification advantages and lead-safe capabilities create structural barriers to competition.
+
+[Go to Chapter 4 →](ch4-new-markets/index.md)
 
 ---
 
@@ -160,7 +186,6 @@ This handbook exists to help LaBrant focus on the **highest-probability painting
 | Data | Location | Update |
 |------|----------|--------|
 | Financial KPIs | Ch. 6 | Quarterly |
-| GC Relationships | Ch. 1 | Monthly |
+| GC Pipeline | This page | Monthly |
 | Pricing | Ch. 6 | Per bid |
 | Weekly Priorities | This page | Weekly |
-| Pipeline Numbers | This page | Quarterly |
