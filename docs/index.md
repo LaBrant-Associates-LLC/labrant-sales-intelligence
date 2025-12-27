@@ -19,17 +19,21 @@ We currently derive most revenue from a small set of GC relationships. This rese
 
 ---
 
-## Handbook Chapter Summary
+## **Where the Money Is (Next 12 Months)**
+
+---
 
 | Chapter | Chapter Detail | Market Size | 12-Month Opportunity |
 |---------|----------------|-------------|----------------------|
-| [1. GC Intelligence](ch1-gc-intelligence/index.md) | Merit-shop GCs worth pursuing | $15M–$25M | $2.8M–$5.2M |
-| [2. Multifamily & Hospitality](ch2-multifamily-hospitality/index.md) | Apartments, senior living, hotels | $10M–$18M | $1.6M–$3.0M |
-| [3. Municipal Markets](ch3-municipal/index.md) | City, County, WisDOT — certification leverage | $7M–$12M | $1.0M–$2.2M |
-| [4. New Markets](ch4-new-markets/index.md) | Religious, self-storage, light industrial | $4M–$8M | $800K–$1.6M |
-| [5. Large Facilities Owners](ch5-large-owners/index.md) | Direct owner & recurring maintenance | $3M–$7M | $400K–$1.1M |
+| [1. GC Intelligence](ch1-gc-intelligence/index.md) | Merit-shop GCs worth pursuing | $15M–$25M | **$2.8M–$5.2M** |
+| [2. Multifamily & Hospitality](ch2-multifamily-hospitality/index.md) | Apartments, senior living, hotels | $10M–$18M | **$1.6M–$3.0M** |
+| [3. Municipal Markets](ch3-municipal/index.md) | City, County, WisDOT — certification leverage | $7M–$12M | **$1.0M–$2.2M** |
+| [4. New Markets](ch4-new-markets/index.md) | Religious, self-storage, light industrial | $4M–$8M | **$800K–$1.6M** |
+| [5. Large Facilities Owners](ch5-large-owners/index.md) | Direct owner & recurring maintenance | $3M–$7M | **$400K–$1.1M** |
 
-*Summary ranges reflect incremental opportunity. Pipeline tables below reflect total current activity. Pipeline ≠ revenue.*
+---
+
+*Summary ranges reflect incremental opportunity. Pipeline ≠ revenue.*
 
 ---
 
