@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# **LaBrant Sales Strategy**
+# **LaBrant Sales Intelligence and Strategy**
 
 **Version:** 2.8 | **December 2025**
 
